@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<question id="FN_24b" module="FN">
+  <questionText>Diva's father told her she should not eat so many cookies because they were pure sugar. Diva decided to investigate the amount of sugar in Fruity Cream cookies. She performed the sugar test on 4 grams of pure sugar and on 4 grams of Fruity Cream cookies. The results are pictured at the right. Are Fruity Cream cookies pure sugar? What is your evidence?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="FN_24b-a1">No, Fruity cream cookies are not pure sugar. The cookies did not produce as much gas as was produced by the pure sugar.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="FN.24b.111.1" accuracy="correct">No, because with pure sugar is higher than 200 milliliters and Fruity Cream cookies is 150 milliliters.</studentAnswer>
+    <studentAnswer id="FN.24b.113.1" accuracy="correct">They are not pure sugar. My evidence is pure sugar has 200 milliliters. They only have 150.</studentAnswer>
+    <studentAnswer id="FN.24b.118.1" accuracy="incorrect">I think yes and no because cookies are not just pure sugar they are sweet as well so they do have sugar but not a whole lot of sugar.</studentAnswer>
+    <studentAnswer id="FN.24b.145.1" accuracy="correct">Fruity Cream cookies is not pure sugar because it would be as high as the volume tube with pure sugar.</studentAnswer>
+    <studentAnswer id="FN.24b.183.1" accuracy="correct">No because the Fruity Cream cookies are only 150 milliliters while pure sugar is 200 milliliters.</studentAnswer>
+  </studentAnswers>
+</question>

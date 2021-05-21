@@ -1,0 +1,3 @@
+q_id,q_text,reference_answer_list,rubric_list
+FN_24b,Diva's father told her she should not eat so many cookies because they were pure sugar. Diva decided to investigate the amount of sugar in Fruity Cream cookies. She performed the sugar test on 4 grams of pure sugar and on 4 grams of Fruity Cream cookies. The results are pictured at the right. Are Fruity Cream cookies pure sugar? What is your evidence?,"['No, Fruity cream cookies are not pure sugar. The cookies did not produce as much gas as was produced by the pure sugar.']",[]
+II_13a,"Look at the finger patterns below, then answer the questions. What is the same about the finger patterns?",['Both finger patterns are loops.'],[]

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<question id="II_13a" module="II">
+  <questionText>Look at the finger patterns below, then answer the questions. What is the same about the finger patterns?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="II_13a-a1">Both finger patterns are loops.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="II.13a.303.1" accuracy="correct">They are loop.</studentAnswer>
+    <studentAnswer id="II.13a.391.1" accuracy="incorrect">One is a loop and one is arch.</studentAnswer>
+    <studentAnswer id="II.13a.396.1" accuracy="incorrect">They are the same.</studentAnswer>
+    <studentAnswer id="II.13a.401.1" accuracy="correct">The both finer patterns are loop.</studentAnswer>
+    <studentAnswer id="II.13a.409.1" accuracy="correct">They are same loop.</studentAnswer>
+  </studentAnswers>
+</question>

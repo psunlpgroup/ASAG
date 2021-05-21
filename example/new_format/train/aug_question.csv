@@ -1,0 +1,4 @@
+q_id,q_text,reference_answer_list,rubric_list
+BULB_C_VOLTAGE_EXPLAIN_WHY1,Explain why you got a voltage reading of 1.5 for terminal 1 and the positive terminal.,"['Terminal 1 and the positive terminal are separated by the gap', 'Terminal 1 and the positive terminal are not connected', 'terminal 1 is connected to the negative battery terminal', 'terminal 1 is not separated from the negative battery terminal', 'Terminal 1 and the positive battery terminal are in different electrical states']",[]
+VOLTAGE_DEFINE_Q,What is voltage?,['Voltage is the difference in electrical states between two terminals'],[]
+EM_45b,You used several methods to separate and identify the substances in mock rocks. How did you separate the salt from the water?,"['The water was evaporated, leaving the salt.']",[]

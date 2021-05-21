@@ -1,0 +1,38 @@
+a_id,a_text,a_q_id,score,feedback
+BULB_C_VOLTAGE_EXPLAIN_WHY1_answer204,Terminal 1 and the positive terminal are separated by the gap,BULB_C_VOLTAGE_EXPLAIN_WHY1,correct,correct
+BULB_C_VOLTAGE_EXPLAIN_WHY1_answer205,Terminal 1 and the positive terminal are not connected,BULB_C_VOLTAGE_EXPLAIN_WHY1,correct,correct
+BULB_C_VOLTAGE_EXPLAIN_WHY1_answer206,terminal 1 is connected to the negative battery terminal,BULB_C_VOLTAGE_EXPLAIN_WHY1,correct,correct
+BULB_C_VOLTAGE_EXPLAIN_WHY1_answer207,terminal 1 is not separated from the negative battery terminal,BULB_C_VOLTAGE_EXPLAIN_WHY1,correct,correct
+BULB_C_VOLTAGE_EXPLAIN_WHY1_answer207.NEW,Terminal 1 and the positive battery terminal are in different electrical states,BULB_C_VOLTAGE_EXPLAIN_WHY1,correct,correct
+FaultFinding-BULB_C_VOLTAGE_EXPLAIN_WHY1.sbj3-l1.qa193,positive battery terminal is separated by a gap from terminal 1,BULB_C_VOLTAGE_EXPLAIN_WHY1,correct,correct
+FaultFinding-BULB_C_VOLTAGE_EXPLAIN_WHY1.sbj7-l1.qa185,terminal 1 is not connected to the positive terminal,BULB_C_VOLTAGE_EXPLAIN_WHY1,correct,correct
+FaultFinding-BULB_C_VOLTAGE_EXPLAIN_WHY1.sbj8-l1.qa223,Because terminal 1 is connected to the positive battery terminal,BULB_C_VOLTAGE_EXPLAIN_WHY1,incorrect,incorrect
+FaultFinding-BULB_C_VOLTAGE_EXPLAIN_WHY1.sbj8-l1.qa224,because terminal 1 is not seperated by any gaps,BULB_C_VOLTAGE_EXPLAIN_WHY1,incorrect,incorrect
+FaultFinding-BULB_C_VOLTAGE_EXPLAIN_WHY1.sbj9-l1.qa189,the positive battery terminal is not connected to terminal 1.,BULB_C_VOLTAGE_EXPLAIN_WHY1,correct,correct
+FaultFinding-BULB_C_VOLTAGE_EXPLAIN_WHY1.sbj10-l1.qa207,because terminal one and the positive terminal are connected,BULB_C_VOLTAGE_EXPLAIN_WHY1,incorrect,incorrect
+FaultFinding-BULB_C_VOLTAGE_EXPLAIN_WHY1.sbj10-l1.qa208,because terminal one is connected to the positive battery terminal,BULB_C_VOLTAGE_EXPLAIN_WHY1,incorrect,incorrect
+FaultFinding-BULB_C_VOLTAGE_EXPLAIN_WHY1.sbj10-l1.qa209,because terminal one and the positive battery terminal are on a closed path,BULB_C_VOLTAGE_EXPLAIN_WHY1,incorrect,incorrect
+FaultFinding-BULB_C_VOLTAGE_EXPLAIN_WHY1.sbj10-l1.qa210,because there is a gap between terminal one and the positive battery terminal,BULB_C_VOLTAGE_EXPLAIN_WHY1,correct,correct
+FaultFinding-BULB_C_VOLTAGE_EXPLAIN_WHY1.sbj11-l1.qa213,termianl 1 is not connected to the positive battery terminal.,BULB_C_VOLTAGE_EXPLAIN_WHY1,correct,correct
+FaultFinding-BULB_C_VOLTAGE_EXPLAIN_WHY1.sbj13-l1.qa220,because there was no separation in the positive battery terminal and terminal 1.,BULB_C_VOLTAGE_EXPLAIN_WHY1,incorrect,incorrect
+FaultFinding-BULB_C_VOLTAGE_EXPLAIN_WHY1.sbjb41-l1.qa162,There was a connection between terminal 1 and the positive terminal,BULB_C_VOLTAGE_EXPLAIN_WHY1,incorrect,incorrect
+FaultFinding-BULB_C_VOLTAGE_EXPLAIN_WHY1.sbjb42-l1.qa162,Terminal one is not connected to the positive battery terminal,BULB_C_VOLTAGE_EXPLAIN_WHY1,correct,correct
+VOLTAGE_DEFINE_Q_answer244,Voltage is the difference in electrical states between two terminals,VOLTAGE_DEFINE_Q,correct,correct
+FaultFinding-VOLTAGE_DEFINE_Q.sbjb35-l1.qa179,The difference in charge between the two terminals,VOLTAGE_DEFINE_Q,incorrect,incorrect
+FaultFinding-VOLTAGE_DEFINE_Q.sbjb36-l1.qa177,the measurement of the electrical current that occurs when the chemicals are mixed together.,VOLTAGE_DEFINE_Q,incorrect,incorrect
+FaultFinding-VOLTAGE_DEFINE_Q.sbjb37-l1.qa177,The amount of electric being put out,VOLTAGE_DEFINE_Q,incorrect,incorrect
+FaultFinding-VOLTAGE_DEFINE_Q.sbjb38-l1.qa178,The electrical difference between the two terminals of a battery,VOLTAGE_DEFINE_Q,incorrect,incorrect
+FaultFinding-VOLTAGE_DEFINE_Q.sbjb39-l1.qa180,the difference between terminals.,VOLTAGE_DEFINE_Q,incorrect,incorrect
+FaultFinding-VOLTAGE_DEFINE_Q.sbjb40-l1.qa178,voltage is the difference in the states of the terminal,VOLTAGE_DEFINE_Q,incorrect,incorrect
+FaultFinding-VOLTAGE_DEFINE_Q.sbjb41-l1.qa180,The measure between 2 different terminals,VOLTAGE_DEFINE_Q,incorrect,incorrect
+FaultFinding-VOLTAGE_DEFINE_Q.sbjb42-l1.qa180,measure of the difference between the elecrical states of two terminals.,VOLTAGE_DEFINE_Q,correct,correct
+EM_45b_EM_45b-a1,"The water was evaporated, leaving the salt.",EM_45b,correct,correct
+EM.45b.110.1,By letting it sit in a dish for a day.,EM_45b,incorrect,incorrect
+EM.45b.113.1,Let the water evaporate and the salt is left behind.,EM_45b,correct,correct
+EM.45b.114.1,The water evaporated and left salt crystals.,EM_45b,correct,correct
+EM.45b.261.1,I saw a pinkish grayish color that was blocking the water.,EM_45b,incorrect,incorrect
+EM.45b.383.1,You have to slowly tip the vial for only the water to go.,EM_45b,incorrect,incorrect
+EM.45b.384.1,"By pouring the water and salt into the thing, and letting the water evaporate.",EM_45b,correct,correct
+EM.45b.385.1,By slowly pouring it in a tray.,EM_45b,incorrect,incorrect
+EM.45b.395.1,The water evaporated so there was only salt left.,EM_45b,correct,correct
+EM.45b.402.1,We put the water with the salt in it and put it outside for the water to evaporate.,EM_45b,correct,correct

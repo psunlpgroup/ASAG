@@ -1,0 +1,13 @@
+a_id,a_text,a_q_id,score,feedback
+FN_24b_FN_24b-a1,"No, Fruity cream cookies are not pure sugar. The cookies did not produce as much gas as was produced by the pure sugar.",FN_24b,correct,correct
+FN.24b.111.1,"No, because with pure sugar is higher than 200 milliliters and Fruity Cream cookies is 150 milliliters.",FN_24b,correct,correct
+FN.24b.113.1,They are not pure sugar. My evidence is pure sugar has 200 milliliters. They only have 150.,FN_24b,correct,correct
+FN.24b.118.1,I think yes and no because cookies are not just pure sugar they are sweet as well so they do have sugar but not a whole lot of sugar.,FN_24b,incorrect,incorrect
+FN.24b.145.1,Fruity Cream cookies is not pure sugar because it would be as high as the volume tube with pure sugar.,FN_24b,correct,correct
+FN.24b.183.1,No because the Fruity Cream cookies are only 150 milliliters while pure sugar is 200 milliliters.,FN_24b,correct,correct
+II_13a_II_13a-a1,Both finger patterns are loops.,II_13a,correct,correct
+II.13a.303.1,They are loop.,II_13a,correct,correct
+II.13a.391.1,One is a loop and one is arch.,II_13a,incorrect,incorrect
+II.13a.396.1,They are the same.,II_13a,incorrect,incorrect
+II.13a.401.1,The both finer patterns are loop.,II_13a,correct,correct
+II.13a.409.1,They are same loop.,II_13a,correct,correct

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<question qtype="Q_EXPLAIN_GENERIC" id="VOLTAGE_DEFINE_Q" module="FaultFinding" stype="QUESTION">
+  <questionText>What is voltage?</questionText>
+  <referenceAnswers>
+    <referenceAnswer category="BEST" id="answer244" fileID="VOLTAGE_DEFINE_Q_ANS1">Voltage is the difference in electrical states between two terminals</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbjb35-l1.qa179" accuracy="incorrect">The difference in charge between the two terminals</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbjb36-l1.qa177" accuracy="incorrect">the measurement of the electrical current that occurs when the chemicals are mixed together.</studentAnswer>
+    <studentAnswer count="1" id="FaultFinding-VOLTAGE_DEFINE_Q.sbjb37-l1.qa177" accuracy="incorrect">The amount of electric being put out</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbjb38-l1.qa178" accuracy="incorrect">The electrical difference between the two terminals of a battery</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbjb39-l1.qa180" accuracy="incorrect">the difference between terminals.</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbjb40-l1.qa178" accuracy="incorrect">voltage is the difference in the states of the terminal</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbjb41-l1.qa180" accuracy="incorrect">The measure between 2 different terminals</studentAnswer>
+    <studentAnswer count="1" answerMatch="answer244" id="FaultFinding-VOLTAGE_DEFINE_Q.sbjb42-l1.qa180" accuracy="correct">measure of the difference between the elecrical states of two terminals.</studentAnswer>
+  </studentAnswers>
+</question>
