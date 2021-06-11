@@ -31,3 +31,30 @@ Unzip it and put it under ./model folder
 You can run the test example data by: 
 
     python train.py
+    
+## Data augmentation 
+
+For data augmentation you may need another python environment
+
+    conda create -n aug_pyenv python=3.6
+
+    conda activate aug_pyenv 
+
+Then install the requirements:
+    
+    pip install sentencepiece==0.1.92
+
+    pip install googletrans==3.1.0a0
+    
+    pip install EasyNMT==1.1.0
+    
+    pip install xml4h
+    
+Then run the example:
+    
+    python back_trans_aug.py
+    
+For the real time running, you need to change the parameters:
+
+    python back_trans_aug.py --src_path source_file_path --tar_path target_file_path --aug_src en --aug_tar fr
+
