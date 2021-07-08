@@ -35,12 +35,14 @@ def trans_back(model, src='en', tar='fr', text=str):
     except :
         print("mid translation error: {}".format(text))
         #return text
+        mid = 'error'
     try:
         result = model.translate(mid, target_lang=src)
     except :
-        print("back trainlation error: {}".format(mid))
+        print("back translation error: {}".format(mid))
         #return text
-
+        result = 'error'
+    # if can't translate, then use google translation
     if mid == result:
         print("mid == result text: {}".format(text))
         translator = Translator()

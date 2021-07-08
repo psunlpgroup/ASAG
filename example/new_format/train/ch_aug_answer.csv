@@ -1,11 +1,11 @@
 a_id,a_text,a_q_id,score,feedback
-BULB_C_VOLTAGE_EXPLAIN_WHY1_answer204,接口1和接口正被间隙隔开,BULB_C_VOLTAGE_EXPLAIN_WHY1,correct,correct
-BULB_C_VOLTAGE_EXPLAIN_WHY1_answer205,接口1和正接口不连接,BULB_C_VOLTAGE_EXPLAIN_WHY1,correct,correct
+BULB_C_VOLTAGE_EXPLAIN_WHY1_answer204,There is a gap between terminal 1 and the positive terminal,BULB_C_VOLTAGE_EXPLAIN_WHY1,correct,correct
+BULB_C_VOLTAGE_EXPLAIN_WHY1_answer205,Terminal 1 and positive terminal are not connected,BULB_C_VOLTAGE_EXPLAIN_WHY1,correct,correct
 BULB_C_VOLTAGE_EXPLAIN_WHY1_answer206,Terminal 1 connected to the negative battery port,BULB_C_VOLTAGE_EXPLAIN_WHY1,correct,correct
 BULB_C_VOLTAGE_EXPLAIN_WHY1_answer207,1st terminal and negative battery terminal not separated,BULB_C_VOLTAGE_EXPLAIN_WHY1,correct,correct
 BULB_C_VOLTAGE_EXPLAIN_WHY1_answer207.NEW,Terminal 1 and the positive battery terminal are in different electrical states,BULB_C_VOLTAGE_EXPLAIN_WHY1,correct,correct
 FaultFinding-BULB_C_VOLTAGE_EXPLAIN_WHY1.sbj3-l1.qa193,Partition of the positive battery terminal from the terminal 1 gap,BULB_C_VOLTAGE_EXPLAIN_WHY1,correct,correct
-FaultFinding-BULB_C_VOLTAGE_EXPLAIN_WHY1.sbj7-l1.qa185,端口1与正端口不连接,BULB_C_VOLTAGE_EXPLAIN_WHY1,correct,correct
+FaultFinding-BULB_C_VOLTAGE_EXPLAIN_WHY1.sbj7-l1.qa185,Terminal 1 is not connected to the positive terminal,BULB_C_VOLTAGE_EXPLAIN_WHY1,correct,correct
 FaultFinding-BULB_C_VOLTAGE_EXPLAIN_WHY1.sbj8-l1.qa223,Because port 1 is connected to the positive battery port,BULB_C_VOLTAGE_EXPLAIN_WHY1,incorrect,incorrect
 FaultFinding-BULB_C_VOLTAGE_EXPLAIN_WHY1.sbj8-l1.qa224,Because there is no gap at the first end,BULB_C_VOLTAGE_EXPLAIN_WHY1,incorrect,incorrect
 FaultFinding-BULB_C_VOLTAGE_EXPLAIN_WHY1.sbj9-l1.qa189,The positive battery port is not connected to the port 1.,BULB_C_VOLTAGE_EXPLAIN_WHY1,correct,correct
@@ -28,7 +28,7 @@ FaultFinding-VOLTAGE_DEFINE_Q.sbjb41-l1.qa180,Measurement between two different 
 FaultFinding-VOLTAGE_DEFINE_Q.sbjb42-l1.qa180,Measure the difference between the leaves of the two terminals.,VOLTAGE_DEFINE_Q,correct,correct
 EM_45b_EM_45b-a1,"Water evaporates, leaving salt.",EM_45b,correct,correct
 EM.45b.110.1,Let it sit in the dish for a day.,EM_45b,incorrect,incorrect
-EM.45b.113.1,"让水蒸发,然后把盐留在后面.",EM_45b,correct,correct
+EM.45b.113.1,"Let the water evaporate, leaving behind the salt.",EM_45b,correct,correct
 EM.45b.114.1,"Water evaporation, leaving salt crystals.",EM_45b,correct,correct
 EM.45b.261.1,I saw a pink and grey color blocking the water.,EM_45b,incorrect,incorrect
 EM.45b.383.1,You must slowly put the bottle on top so that only water can flow out.,EM_45b,incorrect,incorrect

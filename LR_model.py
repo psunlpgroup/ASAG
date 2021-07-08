@@ -33,6 +33,7 @@ class LRClassifier(nn.Module):
         # print('lengths: ', lengths.squeeze())
         embeds = self.embedding(batch)
         # print('embeds: ', embeds.size())
+        # [1, 50, 100]
         # pack LSTM input
         # why? see this link: https://gist.github.com/HarshTrivedi/f4e7293e941b17d19058f6fb90ab0fec
         packed_input = pack_padded_sequence(embeds, lengths, batch_first=True)
